@@ -1,0 +1,125 @@
+.body{
+    background-color: #eff3f5;
+    height: 700px;
+    width:100%
+}
+body{
+    margin: 0;
+}
+.tit{
+   color:#2c5af1;
+   font-size: 60px;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif; 
+   margin-left: 300px;
+   padding-top: 200px;
+   float:left
+}
+.para{
+    color: black;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    width: auto;
+}
+.log{
+    width:396px;
+    background: white;
+    height: 314.83px;
+    float:left;
+    margin: 150px;
+    border-radius: 16px;
+}
+.fr{
+    margin-top: 20px;
+}
+.inp{
+    width:330px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    padding: 14px 16px;
+    border-radius: 5px;
+    font-family: inherit;
+    font-size: 17px;
+    border-color: white;
+    
+}
+.btn{
+    width:365px;
+    height: 56px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    padding: 14px 16px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color:#1877f2;
+    color:white;
+    margin-left: 15px;
+    border-color: #1877f2;
+}
+.for{
+    color: #1877f2;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 125px;
+    text-decoration: none;
+}
+.new{
+    width:220px;
+    height: 40px;
+    margin-bottom: 15px;
+    margin-left: 35px;
+    padding: 14px 16px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color:#3c9c2c;
+    color:white;
+    margin-left: 85px;
+    margin-top: 5px;
+    padding-top: 7px;
+    border-color: #3c9c2c;
+    cursor: pointer;
+}
+.create{
+    text-decoration: none;
+    margin-left: 50px;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.new:hover{
+    background-color: darkgreen;
+}
+.footer{
+    background-color: white;
+    height: 200px;
+    width:100%
+}
+.lang{
+    margin-left: 200px;
+    margin-right: 270px;
+}
+.ulist{
+    list-style: none;
+}
+.list{
+    float: left;
+    padding-left: 15px;
+}
+.typ{
+    text-decoration: none;
+    color: #8a8d91;
+    font-size: 14px;
+    font-family: inherit;
+    cursor: pointer;
+}
+.typ:hover{
+    text-decoration: underline;
+}
+.a:hover:after{
+    width: 100%;
+}
